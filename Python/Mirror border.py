@@ -145,5 +145,4 @@ while GameRunning:
     pygame.display.flip()
 
 pygame.QUIT
-print("after 'pygame.QUIT'")
 quit()
