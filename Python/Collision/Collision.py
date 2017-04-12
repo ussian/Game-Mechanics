@@ -1,7 +1,3 @@
-#=====================================================#
-# Pygame template - skeleton for a new pygame project #
-#=====================================================#
-
 
 # libaries
 import pygame
@@ -103,5 +99,4 @@ while GameRunning:
     pygame.display.flip()
 
 pygame.QUIT
-print("after 'pygame.QUIT'")
 quit()
